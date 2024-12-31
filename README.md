@@ -53,6 +53,8 @@ Feel free to explore and modify the dashboard to suit your needs!
 
 ## Contact Details
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
+
 Email: navyasrigude3@gmail.com
+
 LinkedIn: www.linkedin.com/in/navyasrigude032
 
